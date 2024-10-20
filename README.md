@@ -71,7 +71,8 @@ This approach demonstrates a practical application of machine learning technique
 ---
 ## Usage
 1. Download the dataset containing the product image URLs.
-2. Run the script to download the images:
+2. Download the test_out.csv file for the datasets.
+3. Run the script to download the images and run the model:
     ```bash
-    python download_images.py
+    python main.py
  
