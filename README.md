@@ -69,5 +69,9 @@ Our approach efficiently combines image processing, OCR, and NLP techniques to e
 This approach demonstrates a practical application of machine learning techniques to extract structured data from images in industries like e-commerce and logistics.
 
 ---
-
-
+## Usage
+1. Download the dataset containing the product image URLs.
+2. Run the script to download the images:
+    ```bash
+    python download_images.py
+ 
